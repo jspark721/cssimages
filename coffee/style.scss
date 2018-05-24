@@ -224,16 +224,24 @@ p {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
+.key {
+  position: relative;
+  margin: auto;
+  width: 500px;
+  height: 200px;
+}
+
 .espresso {
   background: $brown;
   position: absolute;
-  left: 27%;
+  left: 17%;
 }
 
 .milk {
   background: $tan;
   position: absolute;
-  left: 45%;
+  left: 40%;
 }
 
 .foam {
@@ -245,5 +253,5 @@ p {
 .water {
   background: $water;
   position: absolute;
-  left: 79%;
+  left: 83%;
 }

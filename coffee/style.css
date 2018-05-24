@@ -211,26 +211,33 @@ p {
   letter-spacing: 2px;
 }
 
+.key {
+  position: relative;
+  margin: auto;
+  width: 500px;
+  height: 200px;
+}
+
 .espresso {
-  background: #5B4644;
+  background: $brown;
   position: absolute;
-  left: 27%;
+  left: 17%;
 }
 
 .milk {
-  background: #DAB7A3;
+  background: $tan;
   position: absolute;
-  left: 45%;
+  left: 40%;
 }
 
 .foam {
-  background: #F4E8DA;
+  background: $white;
   position: absolute;
   left: 63%;
 }
 
 .water {
-  background: #859FB5;
+  background: $water;
   position: absolute;
-  left: 79%;
+  left: 83%;
 }
