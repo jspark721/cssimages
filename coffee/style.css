@@ -219,25 +219,25 @@ p {
 }
 
 .espresso {
-  background: $brown;
+  background: #5B4644;
   position: absolute;
   left: 17%;
 }
 
 .milk {
-  background: $tan;
+  background: #DAB7A3;
   position: absolute;
   left: 40%;
 }
 
 .foam {
-  background: $white;
+  background: #F4E8DA;
   position: absolute;
   left: 63%;
 }
 
 .water {
-  background: $water;
+  background: #859FB5;
   position: absolute;
   left: 83%;
 }
